@@ -11,7 +11,7 @@
                             <StaticResource creativeType="image/jpeg">
                                 <![CDATA[https://cdn.jsdelivr.net/gh/hdzavr/zmb@latest/sl_ov.jpg]]>
                             </StaticResource>
-                            <NonLinearClickThrough id="GDFP">
+                            <NonLinearClickThrough>
                                 <![CDATA[https://slotoref.com/click-link/clicks-url?uid=079031fe9d272ed02283f5ac3449547f&transition&utm_source=zombie_film&utm_medium=banner&utm_campaign=zombie_film_05_04_19]]>
                             </NonLinearClickThrough>
                         </NonLinear>
