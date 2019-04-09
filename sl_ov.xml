@@ -7,7 +7,7 @@
             <Creatives>
                 <Creative>
                     <NonLinearAds>
-                        <NonLinear width="728" height="90" id="ovl-728x90" minSuggestedDuration="00:02:00" scalable="true" maintainAspectRatio="true">
+                        <NonLinear width="728" height="90" id="ovl-728x90" minSuggestedDuration="00:01:00" scalable="true" maintainAspectRatio="true">
                             <StaticResource creativeType="image/jpeg">
                                 <![CDATA[https://cdn.jsdelivr.net/gh/hdzavr/zmb@latest/sl_ov.jpg]]>
                             </StaticResource>
